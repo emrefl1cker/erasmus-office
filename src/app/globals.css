@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --fbu-blue: #003399;
+  --fbu-light: #E8EFFF;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  background: #f8fafc;
+  color: #1e293b;
+}
